@@ -40,6 +40,7 @@ Analyzed accident data to identify spatial and temporal trends and visualized in
 **Tools:** Excel, Tableau.  
 **Dashboard link:** [VehicleAccidentAnalysis](https://public.tableau.com/app/profile/thorat.nivedita/viz/VehicleAccidentAnalysis/Dashboard1)
 
+![Vehicle Accident Analysis](https://github.com/Nivedita1793/Data-Analysis-Portfolio/raw/main/Tableau/Vehicle%20Accident%20Analysis.png)
 
 ### Project 3: Work Environment for Part-Time Jobs  
 Conducted a survey to understand the work environment of part-time jobs for Data Analytics students at St. Clair College, Windsor, Canada. The project emphasized applying the Five C's of Ethics in Data Analytics. Data was collected via Microsoft Forms, stored in CSV format, cleaned and prepared using Python, and visualized through a Tableau dashboard.  
