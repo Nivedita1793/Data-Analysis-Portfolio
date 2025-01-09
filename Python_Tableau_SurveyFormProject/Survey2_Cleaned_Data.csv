@@ -1,0 +1,16 @@
+ID,StartTime,CompletionTime,Consent,JobType,Satisfaction,OpenCommunication,SupportBySupervisor,StressFrequency,WorkLifeBalance,WorkplaceConditions,PersonalGrowth,RecommendJob,PositiveFactor1,PositiveFactor2,PositiveFactor3,PositiveFactor4
+4,2024-11-06 16:09,2024-11-06 16:10,Yes,Part-time,Neutral,1,4,Sometimes,1,4,1,4,Team collaboration,Supportive management,Safe and clean workspace,Flexible hours
+5,2024-11-06 16:19,2024-11-06 16:22,Yes,Part-time,Neutral,1,3,Sometimes,1,4,0,4,Safe and clean workspace,Flexible hours,Team collaboration,Supportive management
+6,2024-11-06 15:58,2024-11-06 16:22,Yes,Part-time,Neutral,1,3,Sometimes,1,4,1,4,Safe and clean workspace,Team collaboration,Supportive management,Flexible hours
+8,2024-11-18 15:41,2024-11-18 15:43,Yes,On-call,Dissatisfied,0,4,Never,1,3,1,5,Supportive management,Team collaboration,Safe and clean workspace,Flexible hours
+9,2024-11-18 15:59,2024-11-18 16:00,Yes,Part-time,Somewhat dissatisfied,1,4,Occasionally,0,3,1,3,Safe and clean workspace,Team collaboration,Supportive management,Flexible hours
+10,2024-11-18 16:03,2024-11-18 16:05,Yes,Part-time,Satisfied,1,4,Often,1,5,1,5,Safe and clean workspace,Team collaboration,Supportive management,Flexible hours
+11,2024-11-18 16:04,2024-11-18 16:05,Yes,Part-time,Very satisfied,1,4,Occasionally,1,4,1,5,Team collaboration,Safe and clean workspace,Supportive management,Flexible hours
+12,2024-11-18 16:06,2024-11-18 16:08,Yes,Summer Job,Satisfied,0,3,Occasionally,1,4,1,5,Supportive management,Team collaboration,Flexible hours,Safe and clean workspace
+13,2024-11-18 16:17,2024-11-18 16:19,Yes,Part-time,Satisfied,0,3,Often,1,4,0,3,Safe and clean workspace,Flexible hours,Team collaboration,Supportive management
+14,2024-11-18 16:29,2024-11-18 16:33,Yes,Part-time,Very satisfied,0,5,Occasionally,1,5,0,5,Supportive management,Team collaboration,Safe and clean workspace,Flexible hours
+15,2024-11-18 16:36,2024-11-18 16:37,Yes,Part-time,Very satisfied,1,5,Occasionally,1,5,1,5,Safe and clean workspace,Team collaboration,Supportive management,Flexible hours
+16,2024-11-18 17:21,2024-11-18 17:22,Yes,Part-time,Satisfied,0,1,Occasionally,1,2,0,2,Flexible hours,Team collaboration,Safe and clean workspace,Supportive management
+17,2024-11-18 17:23,2024-11-18 17:24,Yes,Part-time,Satisfied,1,4,Occasionally,1,3,0,3,Team collaboration,Safe and clean workspace,Supportive management,Flexible hours
+18,2024-11-18 20:50,2024-11-18 20:52,Yes,Part-time,Very satisfied,1,5,Occasionally,1,5,1,5,Supportive management,Flexible hours,Safe and clean workspace,Team collaboration
+19,2024-11-18 22:25,2024-11-18 22:27,Yes,Part-time,Satisfied,1,3,Occasionally,0,4,1,3,Safe and clean workspace,Supportive management,Team collaboration,Flexible hours
