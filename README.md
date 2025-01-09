@@ -41,6 +41,7 @@ Conducted a survey to understand the work environment of part-time jobs for Data
 **Skills:** Ethical analysis, data collection, data cleaning, visualization.  
 **Tools:** Microsoft Forms, Python, Tableau.  
 **Dashboard link:** https://public.tableau.com/app/profile/thorat.nivedita/viz/WorkEnvironmentSurvey_17363561261060/Dashboard1
+**Dashboard link:** [WorkEnvironmentSurvey](https://public.tableau.com/app/profile/thorat.nivedita/viz/WorkEnvironmentSurvey_17363561261060/Dashboard1)
 
 ---
 
