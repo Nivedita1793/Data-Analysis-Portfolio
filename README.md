@@ -30,6 +30,8 @@ Analyzed the impact of food pricing and consumer spending on public health durin
 **Tools:** Excel, Python, Tableau.  
 **Dashboard link:** [EconomicShiftandPublicHealth](https://public.tableau.com/app/profile/thorat.nivedita/viz/EconomicShiftandPublicHealth/FinalDashboard)
 
+[Economic Shift and Public Health](https://github.com/user-attachments/assets/b85d1bca-71a3-4480-92f9-3adafefe2799)
+
 #### Project 2: Vehicle Accident Analysis and Visualization  
 Analyzed accident data to identify spatial and temporal trends and visualized insights into key contributing factors such as weather, road conditions, and driver behavior.  
 **Skills:** Data wrangling, chart design, dashboard storytelling.  
