@@ -29,20 +29,21 @@ Analyzed the impact of food pricing and consumer spending on public health durin
 **Skills:** Data integration, statistical analysis, data visualization.  
 **Tools:** Excel, Python, Tableau.  
 **Dashboard link:** [EconomicShiftandPublicHealth](https://public.tableau.com/app/profile/thorat.nivedita/viz/EconomicShiftandPublicHealth/FinalDashboard)
-
-[Economic Shift and Public Health](https://github.com/user-attachments/assets/b85d1bca-71a3-4480-92f9-3adafefe2799)
+ "C:\Nivedita\GitHub\Tableau Project\Economic Shift and Public Health.png"
 
 #### Project 2: Vehicle Accident Analysis and Visualization  
 Analyzed accident data to identify spatial and temporal trends and visualized insights into key contributing factors such as weather, road conditions, and driver behavior.  
 **Skills:** Data wrangling, chart design, dashboard storytelling.  
 **Tools:** Excel, Tableau.  
 **Dashboard link:** [VehicleAccidentAnalysis](https://public.tableau.com/app/profile/thorat.nivedita/viz/VehicleAccidentAnalysis/Dashboard1)
+"C:\Nivedita\GitHub\Tableau Project\Vehicle Accident Analysis.png"
 
 ### Project 3: Work Environment for Part-Time Jobs  
 Conducted a survey to understand the work environment of part-time jobs for Data Analytics students at St. Clair College, Windsor, Canada. The project emphasized applying the Five C's of Ethics in Data Analytics. Data was collected via Microsoft Forms, stored in CSV format, cleaned and prepared using Python, and visualized through a Tableau dashboard.  
 **Skills:** Ethical analysis, data collection, data cleaning, visualization.  
 **Tools:** Microsoft Forms, Python, Tableau.  
 **Dashboard link:** [WorkEnvironmentSurvey](https://public.tableau.com/app/profile/thorat.nivedita/viz/WorkEnvironmentSurvey_17363561261060/Dashboard1)
+"C:\Nivedita\GitHub\Tableau Project\Work Environment Survey.png"
 
 ---
 
