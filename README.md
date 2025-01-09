@@ -13,12 +13,14 @@ This portfolio showcases my projects, highlighting my ability to clean, analyze,
 ### **Python**  
 #### Customer Churn Analytics and Predictive Modeling
 Analyzed the customer base of an e-commerce site to identify the characteristics of individuals who have stopped using the service ("customer churn"). The goal was to determine patterns and behaviors associated with churned customers and devise targeted strategies to retain at-risk customers.By leveraging advanced analytics and predictive modeling, the project aimed to proactively identify customers likely to churn and recommend personalized interventions to improve customer retention and overall business performance.
-*Skills: Data cleaning, exploratory data analysis (EDA), statistical trends and ML modelling (Decision Tree and Logistic Regression)*
+
+**Skills:** Data cleaning, exploratory data analysis (EDA), statistical trends and ML modelling (Decision Tree and Logistic Regression)*
 
 #### Consumer Spending Trends and Patterns: Predictive Analysis
  
 Analyzed spending patterns of revolute credit card customers across various sectors (retail, travel, entertainment) using Python and presented recommendations for business growth strategies.  
-*Skills: Data cleaning, exploratory data analysis (EDA), Time History analysis, Customer Behavior Analysis,Predictive analysis, ML modelling (Random Forest Regressor)*
+
+**Skills:** Data cleaning, exploratory data analysis (EDA), Time History analysis, Customer Behavior Analysis,Predictive analysis, ML modelling (Random Forest Regressor)*
 
 ---
 
@@ -29,21 +31,21 @@ Analyzed the impact of food pricing and consumer spending on public health durin
 **Skills:** Data integration, statistical analysis, data visualization.  
 **Tools:** Excel, Python, Tableau.  
 **Dashboard link:** [EconomicShiftandPublicHealth](https://public.tableau.com/app/profile/thorat.nivedita/viz/EconomicShiftandPublicHealth/FinalDashboard)
- "C:\Nivedita\GitHub\Tableau Project\Economic Shift and Public Health.png"
+ ["C:\Nivedita\GitHub\Tableau Project\Economic Shift and Public Health.png"](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/Tableau/Economic%20Shift%20and%20Public%20Health.png)
 
 #### Project 2: Vehicle Accident Analysis and Visualization  
 Analyzed accident data to identify spatial and temporal trends and visualized insights into key contributing factors such as weather, road conditions, and driver behavior.  
 **Skills:** Data wrangling, chart design, dashboard storytelling.  
 **Tools:** Excel, Tableau.  
 **Dashboard link:** [VehicleAccidentAnalysis](https://public.tableau.com/app/profile/thorat.nivedita/viz/VehicleAccidentAnalysis/Dashboard1)
-"C:\Nivedita\GitHub\Tableau Project\Vehicle Accident Analysis.png"
+
 
 ### Project 3: Work Environment for Part-Time Jobs  
 Conducted a survey to understand the work environment of part-time jobs for Data Analytics students at St. Clair College, Windsor, Canada. The project emphasized applying the Five C's of Ethics in Data Analytics. Data was collected via Microsoft Forms, stored in CSV format, cleaned and prepared using Python, and visualized through a Tableau dashboard.  
 **Skills:** Ethical analysis, data collection, data cleaning, visualization.  
 **Tools:** Microsoft Forms, Python, Tableau.  
 **Dashboard link:** [WorkEnvironmentSurvey](https://public.tableau.com/app/profile/thorat.nivedita/viz/WorkEnvironmentSurvey_17363561261060/Dashboard1)
-"C:\Nivedita\GitHub\Tableau Project\Work Environment Survey.png"
+
 
 ---
 
