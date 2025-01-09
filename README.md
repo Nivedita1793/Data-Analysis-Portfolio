@@ -28,24 +28,33 @@ Analyzed spending patterns of revolute credit card customers across various sect
 
 ### Project 1: Economic Shift and Public Health  
 Analyzed the impact of food pricing and consumer spending on public health during economic shifts (2016-2022) using Statistics Canada data. Integrated health indicators, food services revenue, and CPI datasets in Excel, performed EDA in Python, and visualized insights in a Tableau dashboard.  
+
 **Skills:** Data integration, statistical analysis, data visualization.
+
 **Tools:** Excel, Python, Tableau. 
+
 **Dashboard link:** [EconomicShiftandPublicHealth](https://public.tableau.com/app/profile/thorat.nivedita/viz/EconomicShiftandPublicHealth/FinalDashboard)
 
 ![Economic Shift and Public Health](https://github.com/Nivedita1793/Data-Analysis-Portfolio/raw/main/Tableau/Economic%20Shift%20and%20Public%20Health.png)
 
 ### Project 2: Vehicle Accident Analysis and Visualization  
 Analyzed accident data to identify spatial and temporal trends and visualized insights into key contributing factors such as weather, road conditions, and driver behavior.  
+
 **Skills:** Data wrangling, chart design, dashboard storytelling.
+
 **Tools:** Excel, Tableau.
+
 **Dashboard link:** [VehicleAccidentAnalysis](https://public.tableau.com/app/profile/thorat.nivedita/viz/VehicleAccidentAnalysis/Dashboard1)
 
 ![Vehicle Accident Analysis](https://github.com/Nivedita1793/Data-Analysis-Portfolio/raw/main/Tableau/Vehicle%20Accident%20Analysis.png)
 
 ### Project 3: Work Environment for Part-Time Jobs  
 Conducted a survey to understand the work environment of part-time jobs for Data Analytics students at St. Clair College, Windsor, Canada. The project emphasized applying the Five C's of Ethics in Data Analytics. Data was collected via Microsoft Forms, stored in CSV format, cleaned and prepared using Python, and visualized through a Tableau dashboard.  
+
 **Skills:** Ethical analysis, data collection, data cleaning, visualization.
+
 **Tools:** Microsoft Forms, Python, Tableau.
+
 **Dashboard link:** [WorkEnvironmentSurvey](https://public.tableau.com/app/profile/thorat.nivedita/viz/WorkEnvironmentSurvey_17363561261060/Dashboard1)
 
 ![Work Environment Survey](https://github.com/Nivedita1793/Data-Analysis-Portfolio/raw/main/Tableau/Work%20Environment%20Survey.png)
