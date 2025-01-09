@@ -99,4 +99,7 @@ Savitribai Phule Pune University, Pune, India | 2017
 ---
 
 ## Contact  
-Feel free to reach out via LinkedIn (https://www.linkedin.com/in/niveditathorat)/ or GitHub() to discuss opportunities or collaborations!
+Feel free to reach out via my profiles:  
+- [LinkedIn](https://www.linkedin.com/in/niveditathorat)  
+- [GitHub](https://github.com/Nivedita1793)
+
