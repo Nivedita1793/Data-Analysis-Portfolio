@@ -14,7 +14,7 @@ This portfolio showcases my projects, highlighting my ability to clean, analyze,
 #### Customer Churn Analytics and Predictive Modeling
 Analyzed the customer base of an e-commerce site to identify the characteristics of individuals who have stopped using the service ("customer churn"). The goal was to determine patterns and behaviors associated with churned customers and devise targeted strategies to retain at-risk customers.By leveraging advanced analytics and predictive modeling, the project aimed to proactively identify customers likely to churn and recommend personalized interventions to improve customer retention and overall business performance.
 
-**Skills:** Data cleaning, exploratory data analysis (EDA), statistical trends and ML modelling (Decision Tree and Logistic Regression)*
+**Skills:** Data cleaning, exploratory data analysis (EDA), statistical trends and ML modelling (Decision Tree and Logistic Regression)
 
 #### Consumer Spending Trends and Patterns: Predictive Analysis
  
@@ -31,7 +31,7 @@ Analyzed the impact of food pricing and consumer spending on public health durin
 **Skills:** Data integration, statistical analysis, data visualization.  
 **Tools:** Excel, Python, Tableau.  
 **Dashboard link:** [EconomicShiftandPublicHealth](https://public.tableau.com/app/profile/thorat.nivedita/viz/EconomicShiftandPublicHealth/FinalDashboard)
- ["C:\Nivedita\GitHub\Tableau Project\Economic Shift and Public Health.png"](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/Tableau/Economic%20Shift%20and%20Public%20Health.png)
+
 
 #### Project 2: Vehicle Accident Analysis and Visualization  
 Analyzed accident data to identify spatial and temporal trends and visualized insights into key contributing factors such as weather, road conditions, and driver behavior.  
