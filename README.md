@@ -34,13 +34,13 @@ Analyzed the impact of food pricing and consumer spending on public health durin
 Analyzed accident data to identify spatial and temporal trends and visualized insights into key contributing factors such as weather, road conditions, and driver behavior.  
 **Skills:** Data wrangling, chart design, dashboard storytelling.*
 **Tools:** Excel, Tableau.  
-**Dashboard link:**https://public.tableau.com/app/profile/thorat.nivedita/viz/VehicleAccidentAnalysis/Dashboard1
+**Dashboard link:** https://public.tableau.com/app/profile/thorat.nivedita/viz/VehicleAccidentAnalysis/Dashboard1
 
 ### Project 3: Work Environment for Part-Time Jobs  
 Conducted a survey to understand the work environment of part-time jobs for Data Analytics students at St. Clair College, Windsor, Canada. The project emphasized applying the Five C's of Ethics in Data Analytics. Data was collected via Microsoft Forms, stored in CSV format, cleaned and prepared using Python, and visualized through a Tableau dashboard.  
 **Skills:** Ethical analysis, data collection, data cleaning, visualization.  
 **Tools:** Microsoft Forms, Python, Tableau.  
-**Dashboard link:**https://public.tableau.com/app/profile/thorat.nivedita/viz/WorkEnvironmentSurvey_17363561261060/Dashboard1
+**Dashboard link:** https://public.tableau.com/app/profile/thorat.nivedita/viz/WorkEnvironmentSurvey_17363561261060/Dashboard1
 
 ---
 
