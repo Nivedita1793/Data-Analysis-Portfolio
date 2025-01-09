@@ -48,6 +48,7 @@ Conducted a survey to understand the work environment of part-time jobs for Data
 **Tools:** Microsoft Forms, Python, Tableau.  
 **Dashboard link:** [WorkEnvironmentSurvey](https://public.tableau.com/app/profile/thorat.nivedita/viz/WorkEnvironmentSurvey_17363561261060/Dashboard1)
 
+![Work Environment Survey](https://github.com/Nivedita1793/Data-Analysis-Portfolio/raw/main/Tableau/Work%20Environment%20Survey.png)
 
 ---
 
