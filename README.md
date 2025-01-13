@@ -11,12 +11,12 @@ This portfolio showcases my projects, highlighting my ability to clean, analyze,
 ## Portfolio Projects  
 
 ### **Python**  
-#### Customer Churn Analytics and Predictive Modeling
+#### Project 1: Customer Churn Analytics and Predictive Modeling
 Analyzed the customer base of an e-commerce site to identify the characteristics of individuals who have stopped using the service ("customer churn"). The goal was to determine patterns and behaviors associated with churned customers and devise targeted strategies to retain at-risk customers.By leveraging advanced analytics and predictive modeling, the project aimed to proactively identify customers likely to churn and recommend personalized interventions to improve customer retention and overall business performance.
 
 **Skills:** Data cleaning, exploratory data analysis (EDA), statistical trends and ML modelling (Decision Tree and Logistic Regression)
 
-#### Consumer Spending Trends and Patterns: Predictive Analysis
+#### Project 2: Consumer Spending Trends and Patterns: Predictive Analysis
  
 Analyzed spending patterns of revolute credit card customers across various sectors (retail, travel, entertainment) using Python and presented recommendations for business growth strategies.  
 
