@@ -1,4 +1,4 @@
-# E-commerce Churn Analysis
+# Customer Churn Analytics and Predictive Modeling
 
 ## Overview
 This project focuses on analyzing customer churn in an e-commerce platform. The analysis includes data cleaning, exploratory data analysis (EDA), predictive modeling, and insights to improve customer retention. The following steps outline the methodology and findings.
