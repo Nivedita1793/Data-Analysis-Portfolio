@@ -82,6 +82,7 @@ Analyzed sales trends, customer behavior, and product performance for Ferns and 
 
 **Dashboard link:** [Ferns and Petals Dashboard](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/MSExcel/Dashboard_FnP.png)  
 **Excel file link:** [Excel_Project_fnp.xlsx](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/MSExcel/Excel_Project_fnp.xlsx)
+![Dashboard Preview](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/MSExcel/Dashboard_FnP.png)
 
 
 ---
