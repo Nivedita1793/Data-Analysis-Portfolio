@@ -73,9 +73,16 @@ Conducted an in-depth analysis of 2.8M records to identify trends in service tic
 ---
 
 ### **Excel**  
-#### Airbnb Pricing and Listing Optimization  
-Cleaned and analyzed Airbnb Bangkok data to derive insights for pricing and listing strategies, focusing on room types, locations, and revenue optimization.  
-*Skills: Data cleaning, descriptive statistics, PivotTables, conditional formatting.*
+### Project 1: Ferns and Petals Sales Analysis  
+Analyzed sales trends, customer behavior, and product performance for Ferns and Petals (FNP), a gifting company specializing in occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, and more. Used Excel to explore the dataset and created an interactive dashboard answering key business questions.  
+
+**Skills:** Data analysis, business insights, dashboard creation.  
+
+**Tools:** Excel.  
+
+**Dashboard link:** [Ferns and Petals Dashboard](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/MSExcel/Dashboard_FnP.png)  
+**Excel file link:** [Excel_Project_fnp.xlsx](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/MSExcel/Excel_Project_fnp.xlsx)
+
 
 ---
 
@@ -90,6 +97,7 @@ You can view all my certificates and credentials on my [LinkedIn Certifications 
 - **Python Essentials 1** (2024) – Cisco
 - **Agile Foundation** (2024) – LinkedIn Learning  
 - **Scrum: The Basics** (2024) – LinkedIn Learning  
+
  
 ---
 
