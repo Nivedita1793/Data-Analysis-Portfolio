@@ -1,10 +1,16 @@
 # Ferns and Petals Sales Analysis
 
-This project is conducted for the sales analysis and dashboard for Ferns and Petals (FNP), a gifting company specializing in various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The analysis leverages Excel to uncover key insights from the provided dataset and guide the company's sales strategy.
+![Dashboard Preview](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/MSExcel/Dashboard_FnP.png)
+
+This repository contains the sales analysis and dashboard for Ferns and Petals (FNP), a gifting company specializing in various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The analysis leverages Excel to uncover key insights from the provided dataset and guide the company's sales strategy.
+
+---
 
 ## Project Overview
 
 The dataset provided includes details about products, orders, customers, and relevant dates. The goal of this project is to perform a comprehensive analysis and create an interactive dashboard that answers critical business questions, helping Ferns and Petals optimize their sales strategy and customer satisfaction.
+
+---
 
 ## Business Questions Answered
 
@@ -18,6 +24,8 @@ The dataset provided includes details about products, orders, customers, and rel
 8. **Order Quantity vs. Delivery Time**: Investigated if higher order quantities impact delivery times.
 9. **Revenue Comparison Between Occasions**: Compared revenues generated across different occasions.
 10. **Product Popularity by Occasion**: Determined which products are most popular during specific occasions.
+
+---
 
 ## Dashboard Features
 
@@ -33,11 +41,15 @@ The interactive dashboard, built in Excel, includes:
 - **Occasion-Based Revenue Comparison**: Compares revenue across occasions.
 - **Occasion-Based Product Popularity**: Identifies popular products for each occasion.
 
+---
+
 ## Files in Repository
 
-- **Dashboard.xlsx**: The Excel file containing the dataset, analysis, and interactive dashboard.
+- **[Dashboard_FnP.png](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/MSExcel/Dashboard_FnP.png)**: A preview image of the dashboard.
+- **[Excel_Project_fnp.xlsx](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/MSExcel/Excel_Project_fnp.xlsx)**: The Excel file containing the dataset, analysis, and interactive dashboard.
 - **README.md**: This documentation file explaining the project, analyses, and dashboard features.
 
+---
 
 ## Key Insights
 
@@ -45,3 +57,4 @@ The interactive dashboard, built in Excel, includes:
 - Products generating the most revenue indicate high customer demand.
 - Occasions like Diwali and Valentine's Day generate higher revenues and should be prioritized in marketing efforts.
 - Delivery times are consistent regardless of order quantity, indicating an efficient logistics system.
+
