@@ -12,15 +12,19 @@ This portfolio showcases my projects, highlighting my ability to clean, analyze,
 
 ### **Python**  
 #### Project 1: Customer Churn Analytics and Predictive Modeling
-Analyzed the customer base of an e-commerce site to identify the characteristics of individuals who have stopped using the service ("customer churn"). The goal was to determine patterns and behaviors associated with churned customers and devise targeted strategies to retain at-risk customers.By leveraging advanced analytics and predictive modeling, the project aimed to proactively identify customers likely to churn and recommend personalized interventions to improve customer retention and overall business performance.
+Analyzed the customer base of an e-commerce site to identify the characteristics of individuals who have stopped using the service ("customer churn"). The goal was to determine patterns and behaviors associated with churned customers and devise targeted strategies to retain at-risk customers. By leveraging advanced analytics and predictive modeling, the project aimed to proactively identify customers likely to churn and recommend personalized interventions to improve customer retention and overall business performance.
 
-**Skills:** Data cleaning, exploratory data analysis (EDA), statistical trends and ML modelling (Decision Tree and Logistic Regression)
+**Skills:** Data cleaning, exploratory data analysis (EDA), statistical trends and ML modeling (Decision Tree and Logistic Regression)  
+**Link:** [Customer Churn Analytics and Predictive Modeling](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/Python/Python_ChurnAnalysis/Readme.md) ,
+          [ChurnAnalysis.ipynb](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/Python/Python_ChurnAnalysis/Project%201_ChurnAnalysis.ipynb)
 
 #### Project 2: Consumer Spending Trends and Patterns: Predictive Analysis
- 
-Analyzed spending patterns of revolute credit card customers across various sectors (retail, travel, entertainment) using Python and presented recommendations for business growth strategies.  
+Analyzed spending patterns of Revolut credit card customers across various sectors (retail, travel, entertainment) using Python and presented recommendations for business growth strategies.
 
-**Skills:** Data cleaning, exploratory data analysis (EDA), Time History analysis, Customer Behavior Analysis,Predictive analysis, ML modelling (Random Forest Regressor)
+**Skills:** Data cleaning, exploratory data analysis (EDA), Time History analysis, Customer Behavior Analysis, Predictive analysis, ML modeling (Random Forest Regressor)  
+**Link:** [Consumer Spending Trends and Patterns: Predictive Analysis](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/Python/Python_MarketingAnalysis/README.md) ,
+          [Marketing_Analysis.ipynb](https://github.com/Nivedita1793/Data-Analysis-Portfolio/blob/main/Python/Python_MarketingAnalysis/Marketing_Analysis.ipynb)
+
 
 ---
 
