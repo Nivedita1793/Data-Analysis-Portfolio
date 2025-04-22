@@ -10,7 +10,7 @@ This project analyzes Salesforce's financials to assess key metrics such as reve
 - **Risk Analysis:** The CAPM model suggests an expected return of 11.3%, while Monte Carlo simulations with 10,000 runs indicate a relatively stable risk profile, suggesting a favorable risk-to-reward balance for investors.
 - **Long-Term Hold:** Based on the free cash flow (FCF) of $6.2B and strong fundamentals, Salesforce is well-positioned for long-term growth. This supports a recommendation for holding Salesforce stock as a solid investment.
 
-## Tools and Methodology
+## Methodology
 - **Data Analysis:** Python was used for financial modeling and risk analysis, including CAPM and Monte Carlo simulations.
 - **Visualization and Forecasting:** Prophet was employed to conduct historical trend analysis and forecast long-term performance.
 - **Dataset:** Salesforce's financial data from FY22–FY25, including revenue, net margin, debt-to-equity ratio, and free cash flow.
